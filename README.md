@@ -1,1 +1,2 @@
-# machine_learning_regression_and_optimization
+# Machine Learning, Regression, and Optimization
+This repository contains code examples supplementing the paper titled "Machine Learning, Regression, and Optimization".
