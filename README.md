@@ -5,8 +5,13 @@ This repository contains code examples supplementing the paper titled "Machine L
 
 
 ## Numerical Experiments
+
+* [Portfolio optimization](https://github.com/biswajitsahoo1111/machine_learning_regression_and_optimization/blob/master/portfolio_cvxpy.ipynb) ([Python code](https://github.com/biswajitsahoo1111/machine_learning_regression_and_optimization/blob/master/portfolio_cvxpy.ipynb)) ([R code](https://github.com/biswajitsahoo1111/machine_learning_regression_and_optimization/blob/master/portfolio_R.pdf)) ([MATLAB code](https://github.com/biswajitsahoo1111/machine_learning_regression_and_optimization/blob/master/portfolio_cvx_matlab.pdf))
+
+* [Predicting number of Corona virus cases in New York](https://github.com/biswajitsahoo1111/machine_learning_regression_and_optimization/blob/master/Predicting_corona_cases_R.ipynb) ([Python code](https://github.com/biswajitsahoo1111/machine_learning_regression_and_optimization/blob/master/Predicting_corona_cases_Python.ipynb)) ([R code](https://github.com/biswajitsahoo1111/machine_learning_regression_and_optimization/blob/master/Predicting_corona_cases_R.ipynb))
+
 * [Boston house price prediction](https://github.com/biswajitsahoo1111/machine_learning_regression_and_optimization/blob/master/Boston_house_price_prediction_using_regression.ipynb)
 
-* [Predicting number of Corona virus cases in New York](https://github.com/biswajitsahoo1111/machine_learning_regression_and_optimization/blob/master/Predicting_corona_cases_R.ipynb) ([R code](https://github.com/biswajitsahoo1111/machine_learning_regression_and_optimization/blob/master/Predicting_corona_cases_R.ipynb)) ([Python code](https://github.com/biswajitsahoo1111/machine_learning_regression_and_optimization/blob/master/Predicting_corona_cases_Python.ipynb))
 
-* [Portfolio optimization](https://github.com/biswajitsahoo1111/machine_learning_regression_and_optimization/blob/master/portfolio_cvxpy.ipynb) ([Python code](https://github.com/biswajitsahoo1111/machine_learning_regression_and_optimization/blob/master/portfolio_cvxpy.ipynb)) ([MATLAB code](https://github.com/biswajitsahoo1111/machine_learning_regression_and_optimization/blob/master/portfolio_cvx_matlab.pdf))
+
+
