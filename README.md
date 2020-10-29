@@ -1,7 +1,7 @@
 # Machine Learning, Regression, and Optimization
 This repository contains code examples supplementing the paper titled "Machine Learning, Regression, and Optimization".
 
-* [Python codes with Toy examples to demonstrate the algorithms in the paper](https://github.com/biswajitsahoo1111/machine_learning_regression_and_optimization/blob/master/ML_regression_optimization_python.ipynb)
+* [Toy examples to demonstrate the algorithms in the paper](https://github.com/biswajitsahoo1111/machine_learning_regression_and_optimization/blob/master/ML_regression_optimization_python.ipynb) ([Python code](https://github.com/biswajitsahoo1111/machine_learning_regression_and_optimization/blob/master/ML_regression_optimization_python.ipynb)) ([MATLAB code](https://github.com/biswajitsahoo1111/machine_learning_regression_and_optimization/blob/master/ML_regression_optimization_MATLAB.pdf))
 
 
 ## Numerical Experiments
