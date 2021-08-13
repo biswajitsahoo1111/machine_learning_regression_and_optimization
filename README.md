@@ -1,5 +1,5 @@
-# Machine Learning, Regression, and Optimization
-This repository contains code examples supplementing the paper titled "Machine Learning, Regression, and Optimization".
+# [Machine Learning, Regression, and Optimization](https://link.springer.com/chapter/10.1007%2F978-981-16-1919-9_15)
+This repository contains code examples supplementing the paper titled "[Machine Learning, Regression, and Optimization](https://link.springer.com/chapter/10.1007%2F978-981-16-1919-9_15)" authored by [Biswa Nath Datta](http://www.math.niu.edu/~dattab/) and [Biswajit Sahoo](https://biswajitsahoo1111.github.io/).
 
 * [Toy examples to demonstrate the algorithms in the paper](https://github.com/biswajitsahoo1111/machine_learning_regression_and_optimization/blob/master/ML_regression_optimization_python.ipynb) ([Python code](https://github.com/biswajitsahoo1111/machine_learning_regression_and_optimization/blob/master/ML_regression_optimization_python.ipynb)) ([MATLAB code](https://github.com/biswajitsahoo1111/machine_learning_regression_and_optimization/blob/master/ML_regression_optimization_MATLAB.pdf))
 
